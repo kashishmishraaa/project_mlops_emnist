@@ -178,3 +178,5 @@ cython_debug/
 emnist_train.csv
 emnist_test.csv
 
+/model1.h5
+/model2.h5
