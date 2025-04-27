@@ -174,3 +174,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+emnist_train.csv
+emnist_test.csv
+
