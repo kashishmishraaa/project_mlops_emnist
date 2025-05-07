@@ -180,3 +180,7 @@ emnist_test.csv
 
 /model1.h5
 /model2.h5
+
+emnist_augmented.csv
+augmented_images.csv
+augmented_labels.csv
